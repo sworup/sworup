@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/sworup"><img src="https://api.daily.dev/devcards/6c5e83f893e74e50b7b14b89e23a9696.png?r=qeb" width="400" alt="Sworup Shakya's Dev Card"/></a>
+[<a href="https://app.daily.dev/sworup"><img src="https://api.daily.dev/devcards/6c5e83f893e74e50b7b14b89e23a9696.png?r=qeb" width="400" alt="Sworup Shakya's Dev Card"/></a>](https://code.sworup.com.np/)
 
 **sworup/sworup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
