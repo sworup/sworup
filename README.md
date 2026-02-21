@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm SWORUP SHAKYA</h3>
 
 <p align="center">
-  <a href="sworup.dev">Website</a> •
+  <a href="https://sworup.dev">Website</a> •
   <a href="https://twitter.com/sworup">Twitter</a> •
   <a href="https://linkedin.com/in/sworup-shakya">LinkedIn</a> •
   <a href="https://github.com/sworup">GitHub</a>
