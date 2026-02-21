@@ -13,7 +13,6 @@ Seasoned full-stack developer and technical leader with over 15 years of experie
 
 ---
 
-# - 🔭 Currently working as **Lead Software Engineer** at **UBA Solutions Pvt. Ltd. / Monotype**
 - 💬 Ask me about: **Enterprise system architecture, project lifecycle management, and technical leadership in software development.**
 - 📍 Based in: **Elk Grove Village, Illinois, USA**
 - 📫 Reach me: [hello@sworup.dev](mailto:hello@sworup.dev)
